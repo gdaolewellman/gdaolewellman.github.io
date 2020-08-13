@@ -1,0 +1,24 @@
+body {
+    font-family: "Antic Slab", serif;
+    background-color: white;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.box1 {
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.box2 {
+    
+}
